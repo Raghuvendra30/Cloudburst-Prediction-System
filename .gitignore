@@ -1,0 +1,20 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+backend/credentials/
+
+# Node
+node_modules/
+
+# Build folders
+dist/
+build/
+
+# Logs
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
