@@ -54,7 +54,7 @@ The system continuously monitors environmental and weather parameters, analyzes 
 
 The complete architecture of the Cloudburst Prediction System is shown below.
 
-![System Architecture](screenshots/System_Architecture.png)
+![System Architecture](Screenshots/System_Architecture.png)
 
 ---
 
@@ -62,7 +62,7 @@ The complete architecture of the Cloudburst Prediction System is shown below.
 
 This workflow illustrates the complete data flow from sensor collection to cloudburst prediction and dashboard visualization.
 
-![System Workflow](screenshots/System_Workflow.jpeg)
+![System Workflow](Screenshots/System_Workflow.jpeg)
 
 ---
 
@@ -70,7 +70,7 @@ This workflow illustrates the complete data flow from sensor collection to cloud
 
 The IoT circuit architecture used for environmental data acquisition.
 
-![Circuit Diagram](screenshots/Circuit_Diagram.png)
+![Circuit Diagram](Screenshots/Circuit_Diagram.png)
 
 ---
 
@@ -121,31 +121,31 @@ Cloudburst-Prediction-System/
 
 ## 🏠 Home Page
 
-![Home Page](screenshots/Home_Page.png)
+![Home Page](Screenshots/Home_Page.png)
 
 ---
 
 ## 🔐 Login & Signup
 
-![Login Signup](screenshots/Login_Signup.png)
+![Login Signup](Screenshots/Login_Signup.png)
 
 ---
 
 ## 📊 Dashboard
 
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ---
 
 ## 🗺️ Interactive Map
 
-![Map](screenshots/Map.png)
+![Map](Screenshots/Map.png)
 
 ---
 
 ## 🤖 AI Prediction & Control Panel
 
-![AI Control](screenshots/AI_Control.png)
+![AI Control](Screenshots/AI_Control.png)
 
 ---
 
