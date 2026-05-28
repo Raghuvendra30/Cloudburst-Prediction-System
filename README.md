@@ -357,7 +357,7 @@ Sensitive files are excluded through `.gitignore`, including:
 
 # 👨‍💻 Author
 
-## Raghuvendra Singh
+## Raghuvendra Pratap Singh
 
 AI & Full Stack Developer
 
